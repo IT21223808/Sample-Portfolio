@@ -1,7 +1,5 @@
 import React from 'react'
 import AboutContent from '../sub/AboutContent'
-import { motion } from 'framer-motion'
-import { slideInFromLeft } from '@/utils/motion'
 
 const About = () => {
     return (
