@@ -24,7 +24,7 @@ const AboutContent = () => {
                     variants={slideInFromLeft(0.8)}
                     className='text-lg text-gray-400 my-5 max-w-[600px]'
                 >
-                    I'm an undergraduate Student. I'm quite passionate about Information technology ,Computer programming and Online marketing. 
+                    I&apos;m an undergraduate Student. I'm quite passionate about Information technology ,Computer programming and Online marketing. 
                     It's engaging for me to build new technologies, explore technological issues, and create software programs for many platforms. Definitely, I am creative and innovative.
                     Working in a team environment and getting to know new individuals is something I appreciate. Additionally, I relish connecting with clients. 
                     I have an extrovert personality along with the quality of leading from front and am a quick learner.
